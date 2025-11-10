@@ -1,0 +1,17 @@
+[
+  {
+    "username": "bodya",
+    "salt": "35wxqPplH5QwRZ79geqNvg==",
+    "hash": "vkFz1rbRDlvywr4FNBFu\u002BGDOrbPjuOjpKeHRWWlpyqk="
+  },
+  {
+    "username": "nimec",
+    "salt": "SgN8q1cJcbE6yDuL17yKFA==",
+    "hash": "8aCZwfByAvDO5U6qPXObofNeBo4gmN996y1HmyFOtf8="
+  },
+  {
+    "username": "andri",
+    "salt": "1X7mArePylSw0qcK24vdcg==",
+    "hash": "WAxlQ3Wn4\u002B7d/6K1cVu6Ol1GA2xW0A6\u002BvE3lia4Xqnc="
+  }
+]

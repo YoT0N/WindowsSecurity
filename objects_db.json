@@ -1,0 +1,101 @@
+[
+  {
+    "id": "5e035b31",
+    "name": "note2",
+    "owner": "bodya",
+    "acl": {
+      "bodya": "owrd",
+      "nimec": "rwd",
+      "andri": "rd"
+    },
+    "contentFile": "C:\\Lessons\\Course4\\\u0411\u0435\u0437\u043F\u0435\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C \u0442\u0430 \u0434\u0430\u043D\u0438\u0445\\Lab7ACL\\objects\\5e035b31.txt"
+  },
+  {
+    "id": "e39383a0",
+    "name": "note3",
+    "owner": "bodya",
+    "acl": {
+      "bodya": "owrd",
+      "andri": "r",
+      "nimec": "rw"
+    },
+    "contentFile": "C:\\Lessons\\Course4\\\u0411\u0435\u0437\u043F\u0435\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C \u0442\u0430 \u0434\u0430\u043D\u0438\u0445\\Lab7ACL\\objects\\e39383a0.txt"
+  },
+  {
+    "id": "874c64d7",
+    "name": "note4",
+    "owner": "bodya",
+    "acl": {
+      "bodya": "owrd",
+      "nimec": "rwd",
+      "andri": "rd"
+    },
+    "contentFile": "C:\\Lessons\\Course4\\\u0411\u0435\u0437\u043F\u0435\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C \u0442\u0430 \u0434\u0430\u043D\u0438\u0445\\Lab7ACL\\objects\\874c64d7.txt"
+  },
+  {
+    "id": "296dd0f1",
+    "name": "note5",
+    "owner": "nimec",
+    "acl": {
+      "nimec": "owrd",
+      "bodya": "r"
+    },
+    "contentFile": "C:\\Lessons\\Course4\\\u0411\u0435\u0437\u043F\u0435\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C \u0442\u0430 \u0434\u0430\u043D\u0438\u0445\\Lab7ACL\\objects\\296dd0f1.txt"
+  },
+  {
+    "id": "cb51c163",
+    "name": "note6",
+    "owner": "nimec",
+    "acl": {
+      "nimec": "owrd",
+      "andri": "rw"
+    },
+    "contentFile": "C:\\Lessons\\Course4\\\u0411\u0435\u0437\u043F\u0435\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C \u0442\u0430 \u0434\u0430\u043D\u0438\u0445\\Lab7ACL\\objects\\cb51c163.txt"
+  },
+  {
+    "id": "015b2265",
+    "name": "note7",
+    "owner": "nimec",
+    "acl": {
+      "nimec": "owrd"
+    },
+    "contentFile": "C:\\Lessons\\Course4\\\u0411\u0435\u0437\u043F\u0435\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C \u0442\u0430 \u0434\u0430\u043D\u0438\u0445\\Lab7ACL\\objects\\015b2265.txt"
+  },
+  {
+    "id": "a0d99ec4",
+    "name": "note9",
+    "owner": "andri",
+    "acl": {
+      "andri": "owrd",
+      "bodya": "rw"
+    },
+    "contentFile": "C:\\Lessons\\Course4\\\u0411\u0435\u0437\u043F\u0435\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C \u0442\u0430 \u0434\u0430\u043D\u0438\u0445\\Lab7ACL\\objects\\a0d99ec4.txt"
+  },
+  {
+    "id": "788250a5",
+    "name": "note10",
+    "owner": "andri",
+    "acl": {
+      "andri": "owrd"
+    },
+    "contentFile": "C:\\Lessons\\Course4\\\u0411\u0435\u0437\u043F\u0435\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C \u0442\u0430 \u0434\u0430\u043D\u0438\u0445\\Lab7ACL\\objects\\788250a5.txt"
+  },
+  {
+    "id": "1c815b5c",
+    "name": "note11",
+    "owner": "andri",
+    "acl": {
+      "andri": "owrd"
+    },
+    "contentFile": "C:\\Lessons\\Course4\\\u0411\u0435\u0437\u043F\u0435\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C \u0442\u0430 \u0434\u0430\u043D\u0438\u0445\\Lab7ACL\\objects\\1c815b5c.txt"
+  },
+  {
+    "id": "eeb2cee8",
+    "name": "note12",
+    "owner": "bodya",
+    "acl": {
+      "bodya": "owrd"
+    },
+    "contentFile": "C:\\Lessons\\Course4\\\u0411\u0435\u0437\u043F\u0435\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C \u0442\u0430 \u0434\u0430\u043D\u0438\u0445\\Lab7ACL\\objects\\eeb2cee8.txt"
+  }
+]
